@@ -2,7 +2,7 @@
 
 [The SAR14 dataset](https://drive.google.com/open?id=14ZXV_RWdBgyLYECd7XJnxf2G2fCEfQkp) contains 233k IMDb movie reviews along with their associated rating scores on a 1-10 scale. Particularly, this dataset consists of 167k reviews with positive scores (greater than or equal to 7) and 66k reviews with negative scores (less than or equal to 4). Please find details about the construction of this dataset as well as results of sentiment polarity classification in [our paper](http://www.aclweb.org/anthology/W14-2621):
 
-    @InProceedings{NguyenWASSAlong2014,
+    @InProceedings{NguyenWASSA2014long,
       author    = {Dai Quoc Nguyen and Dat Quoc Nguyen and Thanh Vu and Son Bao Pham},
       title     = {Sentiment Classification on Polarity Reviews: An Empirical Study Using Rating-based Features},
       booktitle = {Proceedings of the 5th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis},
