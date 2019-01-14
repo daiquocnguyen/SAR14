@@ -1,4 +1,4 @@
-# SAR14: A rating-based sentiment dataset of IMDB movie reviews
+# SAR14: A rating-based sentiment dataset of movie reviews
 
 [The SAR14 dataset](https://drive.google.com/open?id=14ZXV_RWdBgyLYECd7XJnxf2G2fCEfQkp) contains 233k IMDb movie reviews along with their associated rating scores on a 1-10 scale. Particularly, this dataset consists of 167k reviews with positive scores (greater than or equal to 7) and 66k reviews with negative scores (less than or equal to 4). Please find details about the construction of this dataset as well as results of sentiment polarity classification in [our paper](http://www.aclweb.org/anthology/W14-2621):
 
