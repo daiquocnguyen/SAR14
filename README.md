@@ -9,6 +9,4 @@
       year      = {2014},
       pages     = {128--135}
     }
-Please cite the paper whenever SAR14 is used to produce published results or incorporated into other software. SAR14 is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-SAR14 is free for non-commercial use and distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA) License.    
+Please cite the paper whenever SAR14 is used to produce published results or incorporated into other software. SAR14 is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
